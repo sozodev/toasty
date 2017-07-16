@@ -1,4 +1,4 @@
-Blank Intel XDK and Apache Cordova Project
+Toasty Intel XDK and Apache Cordova Project
 ==========================================
 
 See [LICENSE.md](<LICENSE.md>) for license terms and conditions.
